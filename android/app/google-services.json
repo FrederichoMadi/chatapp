@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "923892560896",
+    "project_id": "chatapp-54fd8",
+    "storage_bucket": "chatapp-54fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923892560896:android:8664a33f8861f162d554e5",
+        "android_client_info": {
+          "package_name": "com.fredericho.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923892560896-0440nn1ouojq187f7q52hjti4ebg81bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fredericho.chatapp",
+            "certificate_hash": "adbaed68d2ff6f2bbc141b4c0cb3433e4ce22e58"
+          }
+        },
+        {
+          "client_id": "923892560896-nhm8qjmtqifbtdrr46p09q2a3sc6pbto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7CII_DhQawlZjqMZt_VTIRjtXU5fro0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923892560896-nhm8qjmtqifbtdrr46p09q2a3sc6pbto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923892560896-ov84gknmtccc2mrg3l49f3k9e56o16ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fredericho.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
